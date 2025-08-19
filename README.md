@@ -1,4 +1,4 @@
-#<u>Final Project: Student Loan Dataset</u>
+# <u>Final Project: Student Loan Dataset</u>
 ## Paulina Mostek
 ## Objectives:
 1. Explore the National Student Loan Data System dataset using Python, and perform data cleaning using pandas. Identify questions for data analysis.
@@ -7,7 +7,7 @@
 Datasets: FL_Dashboard_AY2009_2010_Q1.xls and 1617FedSchoolCodeList.xlsxEXCEL from
 https://catalog.data.gov/dataset/national-student-loan-data-system-722b0 
 
-##<u>Data Questions:</u>
+## <u>Data Questions:</u>
 1. Do community colleges or technical colleges originate more loans overall?
 2. Which states have the highest total loan disbursements?
 3. Do private or public schools disburse more in federal student loans?
