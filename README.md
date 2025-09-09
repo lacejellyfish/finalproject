@@ -21,6 +21,7 @@ https://catalog.data.gov/dataset/national-student-loan-data-system-722b0
 * Milestone3.ipynb: Further data cleaning.
 * Milestone4.ipynb: Perform data analysis and plotting using Python.
 * StudentLoanDataSystem.pdf: Project presentation slides
+* coaches.png, eastern conference.png, lakers.png, scoring efficiency.png, top10draft.png: Data visualizations produced by the code.
 
 ## For FinalProject.ipynb:
 * "FL_Dashboard_AY2009_2010_Q1.xls": Original Excel file containing Quarterly Activity and Award Year Summary
